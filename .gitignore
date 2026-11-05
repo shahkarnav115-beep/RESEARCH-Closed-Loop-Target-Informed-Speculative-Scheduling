@@ -1,0 +1,76 @@
+# ==============================================================================
+# .gitignore for CT-Spec Research Repository
+# ==============================================================================
+
+# Compiled Binaries & Libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.a
+*.o
+*.obj
+
+# CMake & Build Artifacts
+**/build/
+**/build-*/
+**/build_*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/x64/
+**/Release/
+**/Debug/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Large Model Weights & Checkpoints (Do not commit to git)
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Python Caches & Virtual Envs
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# LaTeX Auxiliary Build Files (Keeps .tex and .pdf)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS & IDE Cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary Scratch Files
+scratch/
+scripts/add_toggle.py
+scripts/test_toggle.py

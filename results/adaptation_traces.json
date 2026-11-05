@@ -1,0 +1,312 @@
+{
+  "Code": {
+    "CT-Spec": [
+      {
+        "step": 1,
+        "rolling_acc": 0.5,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 2,
+        "rolling_acc": 0.65,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 3,
+        "rolling_acc": 0.73,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 4,
+        "rolling_acc": 0.76,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 6
+      },
+      {
+        "step": 5,
+        "rolling_acc": 0.81,
+        "target_entropy": 0.0,
+        "prev_n_draft": 6,
+        "n_draft": 8
+      },
+      {
+        "step": 6,
+        "rolling_acc": 0.85,
+        "target_entropy": 0.0,
+        "prev_n_draft": 8,
+        "n_draft": 10
+      },
+      {
+        "step": 7,
+        "rolling_acc": 0.88,
+        "target_entropy": 0.0,
+        "prev_n_draft": 10,
+        "n_draft": 12
+      },
+      {
+        "step": 8,
+        "rolling_acc": 0.9,
+        "target_entropy": 0.0,
+        "prev_n_draft": 12,
+        "n_draft": 14
+      },
+      {
+        "step": 9,
+        "rolling_acc": 0.92,
+        "target_entropy": 0.0,
+        "prev_n_draft": 14,
+        "n_draft": 16
+      },
+      {
+        "step": 10,
+        "rolling_acc": 0.93,
+        "target_entropy": 0.0,
+        "prev_n_draft": 16,
+        "n_draft": 16
+      }
+    ]
+  },
+  "Math_Reasoning": {
+    "CT-Spec": [
+      {
+        "step": 1,
+        "rolling_acc": 0.5,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 2,
+        "rolling_acc": 0.65,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 3,
+        "rolling_acc": 0.73,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 4,
+        "rolling_acc": 0.76,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 6
+      },
+      {
+        "step": 5,
+        "rolling_acc": 0.81,
+        "target_entropy": 0.0,
+        "prev_n_draft": 6,
+        "n_draft": 8
+      },
+      {
+        "step": 6,
+        "rolling_acc": 0.85,
+        "target_entropy": 0.0,
+        "prev_n_draft": 8,
+        "n_draft": 10
+      },
+      {
+        "step": 7,
+        "rolling_acc": 0.88,
+        "target_entropy": 0.0,
+        "prev_n_draft": 10,
+        "n_draft": 12
+      },
+      {
+        "step": 8,
+        "rolling_acc": 0.9,
+        "target_entropy": 0.0,
+        "prev_n_draft": 12,
+        "n_draft": 14
+      },
+      {
+        "step": 9,
+        "rolling_acc": 0.92,
+        "target_entropy": 0.0,
+        "prev_n_draft": 14,
+        "n_draft": 16
+      },
+      {
+        "step": 10,
+        "rolling_acc": 0.93,
+        "target_entropy": 0.0,
+        "prev_n_draft": 16,
+        "n_draft": 16
+      }
+    ]
+  },
+  "Creative_Story": {
+    "CT-Spec": [
+      {
+        "step": 1,
+        "rolling_acc": 0.5,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 2,
+        "rolling_acc": 0.65,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 3,
+        "rolling_acc": 0.73,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 4,
+        "rolling_acc": 0.76,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 6
+      },
+      {
+        "step": 5,
+        "rolling_acc": 0.81,
+        "target_entropy": 0.0,
+        "prev_n_draft": 6,
+        "n_draft": 8
+      },
+      {
+        "step": 6,
+        "rolling_acc": 0.85,
+        "target_entropy": 0.0,
+        "prev_n_draft": 8,
+        "n_draft": 10
+      },
+      {
+        "step": 7,
+        "rolling_acc": 0.88,
+        "target_entropy": 0.0,
+        "prev_n_draft": 10,
+        "n_draft": 12
+      },
+      {
+        "step": 8,
+        "rolling_acc": 0.9,
+        "target_entropy": 0.0,
+        "prev_n_draft": 12,
+        "n_draft": 14
+      },
+      {
+        "step": 9,
+        "rolling_acc": 0.92,
+        "target_entropy": 0.0,
+        "prev_n_draft": 14,
+        "n_draft": 16
+      },
+      {
+        "step": 10,
+        "rolling_acc": 0.93,
+        "target_entropy": 0.0,
+        "prev_n_draft": 16,
+        "n_draft": 16
+      }
+    ]
+  },
+  "Technical_QA": {
+    "CT-Spec": [
+      {
+        "step": 1,
+        "rolling_acc": 0.5,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 2,
+        "rolling_acc": 0.65,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 3,
+        "rolling_acc": 0.73,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 4,
+        "rolling_acc": 0.7,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 5,
+        "rolling_acc": 0.75,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 4
+      },
+      {
+        "step": 6,
+        "rolling_acc": 0.77,
+        "target_entropy": 0.0,
+        "prev_n_draft": 4,
+        "n_draft": 6
+      },
+      {
+        "step": 7,
+        "rolling_acc": 0.82,
+        "target_entropy": 0.0,
+        "prev_n_draft": 6,
+        "n_draft": 8
+      },
+      {
+        "step": 8,
+        "rolling_acc": 0.85,
+        "target_entropy": 0.0,
+        "prev_n_draft": 8,
+        "n_draft": 10
+      },
+      {
+        "step": 9,
+        "rolling_acc": 0.87,
+        "target_entropy": 0.0,
+        "prev_n_draft": 10,
+        "n_draft": 12
+      },
+      {
+        "step": 10,
+        "rolling_acc": 0.9,
+        "target_entropy": 0.0,
+        "prev_n_draft": 12,
+        "n_draft": 14
+      },
+      {
+        "step": 11,
+        "rolling_acc": 0.9,
+        "target_entropy": 0.0,
+        "prev_n_draft": 14,
+        "n_draft": 16
+      },
+      {
+        "step": 12,
+        "rolling_acc": 0.92,
+        "target_entropy": 0.0,
+        "prev_n_draft": 16,
+        "n_draft": 16
+      }
+    ]
+  }
+}
