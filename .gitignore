@@ -76,7 +76,7 @@ scripts/add_toggle.py
 scripts/test_toggle.py
 
 # Extra
-.zip
-.pdf
-paper/*
+*.zip
+*.pdf
+paper/
 
